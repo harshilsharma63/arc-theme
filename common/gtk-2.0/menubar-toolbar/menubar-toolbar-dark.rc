@@ -127,8 +127,9 @@ style "toolbar_button" {
 
 style "toolbar_entry" {
 
-  base[NORMAL] = "#404552"
-  base[ACTIVE] = "#404552"
+  # didnt work
+  base[NORMAL] = "#181719"
+  base[ACTIVE] = "#181719"
   base[INSENSITIVE] = "#39404d"
 
   text[NORMAL] = "#afb8c5"

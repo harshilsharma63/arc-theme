@@ -5,7 +5,7 @@ themedarkdir    = $(datadir)/themes/Arc-Dark-solid
 else
 themedir        = $(datadir)/themes/Arc
 themedarkerdir  = $(datadir)/themes/Arc-Darker
-themedarkdir    = $(datadir)/themes/Arc-Dark
+themedarkdir    = $(datadir)/themes/Arc-Black
 endif
 
 ithemedir       = $(DESTDIR)$(themedir)
